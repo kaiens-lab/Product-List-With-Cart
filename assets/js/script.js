@@ -5,9 +5,6 @@ const pickedItemAmount = []; //pickedChoicesamount
 const options = [];
 let menu;
 
-//更改點：菜單區更名為menu ，tag為section
-//更改點：購物車區更名為cart ，tag為section
-
 const minusSVG =
   '<svg xmlns="http://www.w3.org/2000/svg" width="10" height="2" fill="none" viewBox="0 0 10 2"><path fill="#fff" d="M0 .375h10v1.25H0V.375Z"/></svg>';
 const plusSVG =
